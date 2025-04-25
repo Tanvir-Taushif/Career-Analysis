@@ -1,1 +1,3 @@
-Todo: Need to fill this out later
+# The Analysis
+
+## 1. 
